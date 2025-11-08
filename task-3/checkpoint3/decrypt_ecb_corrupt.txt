@@ -1,0 +1,3 @@
+2+sØ¥4+yÅüÈìile for Task 3 in the lab. We need to make sure
+the text is long enough to exceed 64 bytes for proper testing.
+
